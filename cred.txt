@@ -1,0 +1,6 @@
+admin, admin@admin.com, 1234
+seller, seller@seller.com, 12345678
+user, user@user.com, 12345678
+
+** Ratings comes from static template(HTML)
+** 

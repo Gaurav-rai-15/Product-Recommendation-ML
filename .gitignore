@@ -1,0 +1,16 @@
+# Python #
+venv
+.venv
+
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+# media
+
+# VS Code #
+.hintrc
+cred.txtw
